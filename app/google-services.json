@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "362165975096",
+    "firebase_url": "https://pmobfb387-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pmobfb387",
+    "storage_bucket": "pmobfb387.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362165975096:android:ec5adf7aafc186d6d7cecd",
+        "android_client_info": {
+          "package_name": "com.adit.post8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBr5qTOKZK23ZNXFGPbe7SzB4T92bcnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362165975096:android:b43635f8575c32f9d7cecd",
+        "android_client_info": {
+          "package_name": "com.adit.post8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBr5qTOKZK23ZNXFGPbe7SzB4T92bcnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
